@@ -1,0 +1,6 @@
+<span class="float-left items-baseline mt-4">
+  <% @social_url = request.original_url %>
+  <% @social_type = "name_of_this_model" %>
+  <% @social_title = @this_model.title %>
+  <%= render partial: "layouts/social", :locals => {:parameter => @social_title, :parameter => @social_type, :parameter => @social_url} %>
+</span>
