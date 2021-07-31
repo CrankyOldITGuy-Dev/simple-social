@@ -17,8 +17,10 @@ Three variables are passed from the model to the layout that generate the social
 Currently, simple-social supports Facebook, Twitter and Reddit. Other social media options can be added easily by including their posting URL and formatting in the _social.html.erb file.
 
 Social toggle closed
+
 ![image](https://user-images.githubusercontent.com/61164345/127722583-0a13e621-d873-47f5-9c05-5075f388cbf8.png)
 
-Socail toggle open
+Social toggle open
+
 ![image](https://user-images.githubusercontent.com/61164345/127722595-a5a75f53-e055-4069-9431-c87953e14bd4.png)
 
