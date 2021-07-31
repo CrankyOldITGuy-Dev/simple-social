@@ -4,3 +4,5 @@
   <% @social_title = @this_model.title %>
   <%= render partial: "layouts/social", :locals => {:parameter => @social_title, :parameter => @social_type, :parameter => @social_url} %>
 </span>
+
+<%= javascript_pack_tag 'social.js' %>
