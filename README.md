@@ -12,4 +12,4 @@ Three variables are passed from the model to the layout that generate the social
 @social_title - the Title to use for the social media post.
 @social_type - optional variable in case you want to supress or change the behavior of the social buttons depending on the model displaying it.
 
-Currently, simple-social supports Facebook, Twitter and 
+Currently, simple-social supports Facebook, Twitter and Reddit. Other social media options can be added easily by including their posting URL and formatting in the _social.html.erb file.
